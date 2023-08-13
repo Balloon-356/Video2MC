@@ -6,7 +6,11 @@
 
 <br>
 
-Bilibili: [https://space.bilibili.com/244384103](https://space.bilibili.com/244384103)
+Bilibili账号: [https://space.bilibili.com/244384103](https://space.bilibili.com/244384103)
+
+视频链接：https://www.bilibili.com/video/BV1SP411W7pw
+
+实现原理：https://www.bilibili.com/read/cv25704198
 
 利用计算机视觉算法，我实现了低成本“动作捕捉”，在此正式发布MC动画自动生成算法Video2MC！
 
