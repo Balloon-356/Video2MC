@@ -9,3 +9,7 @@
 Bilibili: [https://space.bilibili.com/244384103](https://space.bilibili.com/244384103)
 
 利用计算机视觉算法，我实现了低成本“动作捕捉”，在此正式发布MC动画自动生成算法Video2MC！
+
+## 使用方法
+
+（该部分仍在创作中，若有需要请在B站私信）
