@@ -17,3 +17,9 @@ Bilibili账号: [https://space.bilibili.com/244384103](https://space.bilibili.co
 ## 使用方法
 
 （该部分仍在创作中，若有需要请在B站私信）
+
+20230817更新: 
+1. 主函数为videopose_PSTMO.py，直接运行`python videopose_PSTMO.py`即可。
+2. 算法需要4G左右显存的显卡，需要自行配置pytorch环境。本人不在学校，暂时无法提供算法的具体环境。
+3. 需要新建一个文件夹`input_video/`，将待处理的视频放进去。
+4. 代码运行成功后，所有输出都在对应的`output`文件夹内。
