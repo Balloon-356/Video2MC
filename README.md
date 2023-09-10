@@ -6,6 +6,14 @@
 
 <br>
 
+## 最新进展
+
+网页端：https://huggingface.co/spaces/Sapphire-356/Video2MC
+
+网页端使用说明：https://www.bilibili.com/video/BV1Xu411A7LS/
+
+## 相关链接
+
 Bilibili账号: [https://space.bilibili.com/244384103](https://space.bilibili.com/244384103)
 
 视频链接：https://www.bilibili.com/video/BV1SP411W7pw
@@ -16,7 +24,11 @@ Bilibili账号: [https://space.bilibili.com/244384103](https://space.bilibili.co
 
 ## 使用方法
 
-（该部分仍在创作中，若有需要请在B站私信）
+### **（该部分不打算继续更新，若有需要请在B站私信）**
+
+### **（如非必要，请勿尝试复现，避免不必要的时间浪费）**
+
+### **（复现前请先联系我，建议使用网页端）**
 
 20230817更新: 
 1. 主函数为videopose_PSTMO.py，直接运行`python videopose_PSTMO.py`即可。
